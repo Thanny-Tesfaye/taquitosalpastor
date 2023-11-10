@@ -42,5 +42,5 @@
 ------
 
 
-[suerte](https://kekma.net)
+[suerte https://kekma.net]
 doctor.pica.fresa_xo
