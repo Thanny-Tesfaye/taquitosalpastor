@@ -41,6 +41,6 @@
 
 ------
 
-[Aleksey-Voko](https://github.com/Aleksey-Voko)
 
-Last Edited on: 16/11/2021
+[suerte](https://kekma.net)
+doctor.pica.fresa_xo
