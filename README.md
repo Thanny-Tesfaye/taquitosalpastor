@@ -19,7 +19,7 @@
 [<img src="https://i.pinimg.com/564x/39/ad/39/39ad39302b0ffe1d772deac6b14e7e98.jpg" alt="telegram" width="50">](https://t.me/voko_aleksey)
 [<img src="https://i.pinimg.com/564x/3d/4b/7c/3d4b7c98faebf73f92c5b59871565e9a.jpg" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
 [<img src="https://i.pinimg.com/originals/93/58/f8/9358f84e21a2926a3ca93fa3c76be0da.gif" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
+[<img src="https://i.pinimg.com/736x/fa/48/66/fa48669a923995b136305f22d3dd81b8.jpg" alt="stackoverflow" width="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
 [<img src="https://image.winudf.com/v2/image1/cnUuaGFicmFoYWJyX2ljb25fMTU1NTE2NzQwMF8wMTQ/icon.png?w=&fakeurl=1" alt="stackoverflow" width="53">](https://freelance.habr.com/freelancers/Voko_Aleksey)
 
 
