@@ -1,14 +1,14 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://i.pinimg.com/originals/93/58/f8/9358f84e21a2926a3ca93fa3c76be0da.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' src="https://makesweet.com/f/b/1/c/b1cc0b23-5e15-4eb4-83fb-611af3475dd7.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
 
 
-# Hola we, no vas a tener mis codigos che inutil 😹 🤌 #
+# Hola we, no vas a tener mis codigos che inutil 😹 🤌(acepto sobornos)
 
 
 
 [<img src="https://i.pinimg.com/originals/e6/c5/b8/e6c5b879bfa5b03a4c08c25aff132d02.gif" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://i.pinimg.com/originals/93/58/f8/9358f84e21a2926a3ca93fa3c76be0da.gif" alt="java" width="100">](https://docs.oracle.com/en/java/)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
 [<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
