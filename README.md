@@ -15,7 +15,7 @@
 
 
 
-[<img src="https://i.pinimg.com/originals/48/c7/f1/48c7f1e343412ce0360abbe54af08d89.gif" alt="TUMAMAWE" width="65">](mailto:voko.aleksey@gmail.com)
+[<img src="https://i.pinimg.com/originals/48/c7/f1/48c7f1e343412ce0360abbe54af08d89.gif" alt="gmail" width="65">](mailto:voko.aleksey@gmail.com)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
 [<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
