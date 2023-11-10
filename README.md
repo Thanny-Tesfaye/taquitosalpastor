@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="file:///C:/Users/josue/Downloads/xd.mp4" width="220" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' src="https://i.pinimg.com/564x/51/04/0b/51040b07ce936cc6d9d9a1563fc67315.jpg" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
 
 
