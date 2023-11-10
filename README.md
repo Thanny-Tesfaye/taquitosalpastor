@@ -8,7 +8,7 @@
 
 
 [<img src="https://i.pinimg.com/originals/e6/c5/b8/e6c5b879bfa5b03a4c08c25aff132d02.gif" alt="python" width="100">](https://docs.python.org/3/library/index.html)
-[<img src="https://i.pinimg.com/originals/93/58/f8/9358f84e21a2926a3ca93fa3c76be0da.gif" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://i.pinimg.com/564x/ef/45/24/ef4524f4560e702209a0bc0b77ab40b5.jpg" alt="java" width="100">](https://docs.oracle.com/en/java/)
 [<img src="https://i.pinimg.com/564x/d8/05/b8/d805b858741e484e928ef19f062b0cc8.jpg" width="100">](https://kotlinlang.org/docs/home.html)
 [<img src="https://i.pinimg.com/564x/3d/77/bd/3d77bd2e875a70874a6dfd9845ff9f93.jpg" alt="android" width="100">](https://developer.android.com/reference)
 [<img src="https://i.pinimg.com/564x/18/c1/97/18c197def1ced1e87b7c95c630a113d0.jpg" alt="golang" width="100">](https://golang.org/doc/)
@@ -18,7 +18,7 @@
 [<img src="https://i.pinimg.com/originals/ec/1c/7a/ec1c7a4b336fcb0720cf9002bafdcb26.gif" alt="gmail" width="65">](mailto:voko.aleksey@gmail.com)
 [<img src="https://i.pinimg.com/564x/39/ad/39/39ad39302b0ffe1d772deac6b14e7e98.jpg" alt="telegram" width="50">](https://t.me/voko_aleksey)
 [<img src="https://i.pinimg.com/564x/3d/4b/7c/3d4b7c98faebf73f92c5b59871565e9a.jpg" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
-[<img src="https://i.pinimg.com/564x/ef/45/24/ef4524f4560e702209a0bc0b77ab40b5.jpg" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
+[<img src="https://i.pinimg.com/originals/93/58/f8/9358f84e21a2926a3ca93fa3c76be0da.gif" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
 [<img src="https://image.winudf.com/v2/image1/cnUuaGFicmFoYWJyX2ljb25fMTU1NTE2NzQwMF8wMTQ/icon.png?w=&fakeurl=1" alt="stackoverflow" width="53">](https://freelance.habr.com/freelancers/Voko_Aleksey)
 
