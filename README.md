@@ -3,7 +3,7 @@
 
 
 
-# Hola we, no vas a tener mis codigos che inutil 😹 🤌(acepto sobornos)
+# Hola we, no vas a tener mis codigos che inutil jaja 😹 🤌(acepto sobornos)
 
 
 
